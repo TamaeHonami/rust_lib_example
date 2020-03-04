@@ -1,5 +1,5 @@
-fn test_func() {
+pub fn test_func() {
   println!("Test function.");
 }
 
-mod nest_module;
+pub mod nest_module;
