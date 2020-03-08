@@ -3,3 +3,4 @@ pub fn test_func() {
 }
 
 pub mod nest_module;
+pub mod inner_call_module;
